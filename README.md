@@ -1,3 +1,3 @@
 # Projeto de Spark, utilizando Databricks
-Criação de variados códigos spark para aprimoramento de conhecimento <br />
+Criação de códigos variados em spark para aprimoramento de conhecimento de funções <br />
 <br />
